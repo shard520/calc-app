@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'digital';
+  src: local('digital'), url('./fonts/digital-7.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'alarm';
+  src: local('alarm'), url('./fonts/alarm-clock.ttf') format('truetype');
+}

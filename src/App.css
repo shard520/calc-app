@@ -1,0 +1,7 @@
+:root {
+  --page-width: 1200px;
+}
+
+.app {
+  max-width: var(--page-width);
+}
